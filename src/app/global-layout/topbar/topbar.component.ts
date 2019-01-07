@@ -15,7 +15,7 @@ import  {WorkspaceComponent } from '../workspace/workspace.component'
 
   <div class="topbar-right">
       <a id="menu-button" href="#" (click)="app.onMenuButtonClick($event)">
-          <i></i>
+          <i class="material-icons">menu</i>
       </a>
 
       <a id="rightpanel-menu-button" href="#" (click)="app.onRightPanelButtonClick($event)">

@@ -792,7 +792,7 @@
 }
 
 .login-panel .ui-button:hover {
-  background-color: #37474F;
+  background-color: #002140;
 }
 
 .login-panel .ui-button:focus {
@@ -1422,7 +1422,7 @@ body a {
   padding: 20px;
   height: 75px;
   width: 250px;
-  background-color: #37474F;
+  background-color: #002140;
   float: left;
   box-shadow: 3px 0 6px rgba(0, 0, 0, 0.3);
   -webkit-box-shadow: 3px 0 6px rgba(0, 0, 0, 0.3);
@@ -1898,11 +1898,11 @@ body a {
 }
 
 .layout-container .ultima-menu li a.active-menuitem-routerlink {
-  color: #8BC34A;
+  color: #fff;
 }
 
 .layout-container .ultima-menu li a.active-menuitem-routerlink > i {
-  color: #8BC34A;
+  color: #fff;
 }
 
 .layout-container .ultima-menu li a.active-menuitem-routerlink:hover {
@@ -2148,7 +2148,7 @@ body a {
     width: 100%;
     top: 75px;
     height: auto;
-    background-color: #37474F;
+    background-color: #002140;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
     -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
     -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
@@ -2189,10 +2189,10 @@ body a {
     color: #fff;
   }
   .layout-container.menu-layout-horizontal .layout-menu ul.ultima-menu > li > a.active-menuitem-routerlink {
-    color: #8BC34A;
+    color: #fff;
   }
   .layout-container.menu-layout-horizontal .layout-menu ul.ultima-menu > li > a.active-menuitem-routerlink > i {
-    color: #8BC34A;
+    color: #fff;
   }
   .layout-container.menu-layout-horizontal .layout-menu ul.ultima-menu > li > a.active-menuitem-routerlink:hover {
     color: #fff;
@@ -2622,4 +2622,4 @@ body .layout-wrapper.layout-compact .ui-datepicker tbody td a, body .layout-wrap
     padding-top: 110px;
   }
 }
-/*# sourceMappingURL=layout-blue-grey.css.map */
+/*# sourceMappingURL=layout-ant-pro.css.map */
