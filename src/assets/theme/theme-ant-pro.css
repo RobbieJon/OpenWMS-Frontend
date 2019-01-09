@@ -34230,7 +34230,6 @@ body .ui-datatable .ui-datatable-thead > tr th:focus {
 
 body .ui-datatable .ui-datatable-thead > tr th.ui-sortable-column:not(.ui-state-active):hover {
   background-color: #fff;
-  color: #fff;
 }
 
 body .ui-datatable .ui-datatable-thead > tr th .ui-column-title {
