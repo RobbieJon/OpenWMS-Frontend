@@ -32390,7 +32390,6 @@ body .ui-dropdown-panel .ui-dropdown-item.ui-state-highlight {
 
 body .ui-dropdown-panel .ui-dropdown-item:not(.ui-state-highlight):not(.ui-state-disabled):hover {
   background-color: #fff;
-  color: #fff;
 }
 
 body .ui-dropdown-panel.ui-shadow {
