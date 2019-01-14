@@ -16,17 +16,6 @@
 
 在阿里云上的演示地址 http://47.104.80.251:4200
 
-### 效果截图
-
-<img src="./src/assets/imgs/login.png">
-
-<img src="./src/assets/imgs/dashboard.png">
-
-<img src="./src/assets/imgs/echarts.png">
-
-<img src="./src/assets/imgs/inventory.png">
-
-
 ### 目录结构
 
 <img src="./src/assets/imgs/dir1.png">
