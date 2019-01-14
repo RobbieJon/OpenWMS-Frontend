@@ -31,7 +31,7 @@ import  {WorkspaceComponent } from '../workspace/workspace.component'
               [ngClass]="{'active-top-menu':app.activeTopbarItem === profile}">
 
               <a href="#" (click)="app.onTopbarItemClick($event,profile)">
-                  <img class="profile-image" src="../../../assets/imgs/dmqq.jpg" />
+                  <img class="profile-image" src="assets/imgs/io.png" />
                   <span class="topbar-item-name">Jane Williams</span>
               </a>
 
